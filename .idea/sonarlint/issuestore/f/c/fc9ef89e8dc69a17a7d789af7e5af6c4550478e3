@@ -1,0 +1,25 @@
+
+U
+java:S1161":Add the "@Override" annotation above this method signature(Íç„õøÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀùôÖûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀùôÖûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—ÌùÈıÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ïòÑÕøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïòÑÕøÿÿÿÿ
+]	java:S125)"<This block of commented-out lines of code should be removed.(ù…Üşÿÿÿÿ8é¶š¶ª/
+g
+java:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(ÍÄßØ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ÍÄßØ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(†Öşè
+n
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(ÍÄßØ8îçÎ´ª/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ÍÄßØ8•ÚÉ´ª/
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(†Öşè8¸ëÌ´ª/
+Z
+java:S1854U"?Remove this useless assignment to local variable "saldoAntigo".(¢”ø¼øÿÿÿÿ
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(»¨Öã8îçÎ´ª/
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ò¤µæ8îçÎ´ª/
+K
+java:S1481U"0Remove this unused "saldoAntigo" local variable.(¢”ø¼øÿÿÿÿ
